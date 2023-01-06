@@ -17,9 +17,9 @@ body {
 .mask {
   position: absolute;
   inset: 0;
-  background-image: url(akutski.png);
-  -webkit-mask-image: url(my-mask.png);
-  mask-image: url(my-mask.png);
+  background-image: url(/akutski.png);
+  -webkit-mask-image: url(/my-mask.png);
+  mask-image: url(/my-mask.png);
   -webkit-mask-size: cover;
   mask-size: cover;
   -webkit-mask-position: 0% 0%;
