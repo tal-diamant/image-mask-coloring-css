@@ -23,6 +23,7 @@ body {
   -webkit-mask-size: cover;
   mask-size: cover;
   -webkit-mask-position: 0% 0%;
+  mask-position: 0% 0%;
 
   transition:
     -webkit-mask-position 500ms steps(12);
@@ -30,4 +31,5 @@ body {
 
 .mask:hover {
   -webkit-mask-position: 100% 0%;
+  mask-position: 100% 0%;
 }
